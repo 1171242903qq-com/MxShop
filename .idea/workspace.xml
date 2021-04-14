@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deb6b372-d721-4c5e-8f90-c75d0f36313b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGBa8lYkpBWAGo4NCiJJOQOEG1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mxonline" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Py-Project\MxShop\apps\goods" />
+      <recent name="D:\Py-Project\MxShop\static" />
+      <recent name="D:\Py-Project\MxShop\templates" />
+      <recent name="D:\Py-Project\MxShop\apps\trade\keys" />
+      <recent name="D:\Py-Project\MxShop\extra_apps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Py-Project\MxShop\apps\user_operation" />
+      <recent name="D:\Py-Project\MxShop\db_tools\data" />
+      <recent name="D:\Py-Project\MxShop\apps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.MxShop">
+    <configuration name="alipay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/utils/alipay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_category_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_goods_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MxShop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MxShop/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yunpian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MxShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/utils/yunpian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MxShop" type="Python.DjangoServer" factoryName="Django server">
+      <module name="MxShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MxShop.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Evns\VueShop\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.MxShop" />
+      <item itemvalue="Python.import_category_data" />
+      <item itemvalue="Python.import_goods_data" />
+      <item itemvalue="Python.yunpian" />
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.alipay" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.import_goods_data" />
+        <item itemvalue="Python.import_category_data" />
+        <item itemvalue="Python.alipay" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.yunpian" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deb6b372-d721-4c5e-8f90-c75d0f36313b" name="Default Changelist" comment="" />
+      <created>1603420608989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603420608989</updated>
+      <workItem from="1603420611751" duration="29801000" />
+      <workItem from="1603504310093" duration="16233000" />
+      <workItem from="1603590462823" duration="6902000" />
+      <workItem from="1604455854192" duration="2272000" />
+      <workItem from="1605623349616" duration="780000" />
+      <workItem from="1610162183916" duration="24869000" />
+      <workItem from="1610345969150" duration="4647000" />
+      <workItem from="1610358388682" duration="8178000" />
+      <workItem from="1610430644485" duration="2428000" />
+      <workItem from="1610629058659" duration="3250000" />
+      <workItem from="1610699627771" duration="4990000" />
+      <workItem from="1610705546016" duration="2171000" />
+      <workItem from="1610761438074" duration="15496000" />
+      <workItem from="1610851772607" duration="19137000" />
+      <workItem from="1610952779206" duration="16859000" />
+      <workItem from="1610980711198" duration="3749000" />
+      <workItem from="1611022786414" duration="35000" />
+      <workItem from="1611051811491" duration="50000" />
+      <workItem from="1611205033245" duration="249000" />
+      <workItem from="1611214388993" duration="142000" />
+      <workItem from="1611896939469" duration="3206000" />
+      <workItem from="1613112532875" duration="67000" />
+      <workItem from="1614159302959" duration="49000" />
+      <workItem from="1615536697210" duration="6266000" />
+      <workItem from="1615622016206" duration="4211000" />
+      <workItem from="1615688543195" duration="5096000" />
+      <workItem from="1615773892051" duration="13472000" />
+      <workItem from="1615861563492" duration="27543000" />
+      <workItem from="1615948322018" duration="9648000" />
+      <workItem from="1616032867474" duration="5452000" />
+      <workItem from="1616039223986" duration="9539000" />
+      <workItem from="1616198861059" duration="17897000" />
+      <workItem from="1616287763323" duration="21189000" />
+      <workItem from="1616377254895" duration="25994000" />
+      <workItem from="1616465538771" duration="7509000" />
+      <workItem from="1616505026397" duration="601000" />
+      <workItem from="1616551315756" duration="1608000" />
+      <workItem from="1616572021846" duration="6452000" />
+      <workItem from="1616675249101" duration="1308000" />
+      <workItem from="1616730613093" duration="765000" />
+      <workItem from="1616811805477" duration="823000" />
+      <workItem from="1616978771015" duration="1896000" />
+      <workItem from="1617097178661" duration="980000" />
+      <workItem from="1617267655976" duration="660000" />
+      <workItem from="1617437015652" duration="1809000" />
+      <workItem from="1617495788061" duration="607000" />
+      <workItem from="1617589342847" duration="2531000" />
+      <workItem from="1617784776473" duration="619000" />
+      <workItem from="1617877710705" duration="699000" />
+      <workItem from="1617950687038" duration="1208000" />
+      <workItem from="1618048478461" duration="6357000" />
+      <workItem from="1618126995616" duration="2125000" />
+      <workItem from="1618130283087" duration="7062000" />
+      <workItem from="1618188670225" duration="2134000" />
+      <workItem from="1618213526673" duration="742000" />
+      <workItem from="1618280559675" duration="2019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="166" key="#Deployment" timestamp="1616204225855">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="321" y="166" key="#Deployment/0.31.1440.929@0.31.1440.929" timestamp="1616204225855" />
+    <state x="49" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618131110298">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="49" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1440.929@0.31.1440.929" timestamp="1618131110298" />
+    <state x="883" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616212009792">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="883" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.31.1440.929@0.31.1440.929" timestamp="1616212009792" />
+    <state width="1438" height="440" key="DebuggerActiveHint" timestamp="1616309084961">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1438" height="440" key="DebuggerActiveHint/0.31.1440.929@0.31.1440.929" timestamp="1616309084961" />
+    <state x="533" y="205" key="FileChooserDialogImpl" timestamp="1618385769413">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="533" y="205" key="FileChooserDialogImpl/0.31.1440.929@0.31.1440.929" timestamp="1618385769413" />
+    <state width="1372" height="326" key="GridCell.Tab.0.bottom" timestamp="1618385872966">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1372" height="326" key="GridCell.Tab.0.bottom/0.31.1440.929@0.31.1440.929" timestamp="1618385872966" />
+    <state width="1372" height="326" key="GridCell.Tab.0.center" timestamp="1618385872966">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1372" height="326" key="GridCell.Tab.0.center/0.31.1440.929@0.31.1440.929" timestamp="1618385872966" />
+    <state width="1372" height="326" key="GridCell.Tab.0.left" timestamp="1618385872966">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1372" height="326" key="GridCell.Tab.0.left/0.31.1440.929@0.31.1440.929" timestamp="1618385872966" />
+    <state width="1372" height="326" key="GridCell.Tab.0.right" timestamp="1618385872966">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1372" height="326" key="GridCell.Tab.0.right/0.31.1440.929@0.31.1440.929" timestamp="1618385872966" />
+    <state width="1382" height="457" key="GridCell.Tab.1.bottom" timestamp="1616504424752">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1382" height="457" key="GridCell.Tab.1.bottom/0.31.1440.929@0.31.1440.929" timestamp="1616504424752" />
+    <state width="1382" height="457" key="GridCell.Tab.1.center" timestamp="1616504424752">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1382" height="457" key="GridCell.Tab.1.center/0.31.1440.929@0.31.1440.929" timestamp="1616504424752" />
+    <state width="1382" height="457" key="GridCell.Tab.1.left" timestamp="1616504424752">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1382" height="457" key="GridCell.Tab.1.left/0.31.1440.929@0.31.1440.929" timestamp="1616504424752" />
+    <state width="1382" height="457" key="GridCell.Tab.1.right" timestamp="1616504424752">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1382" height="457" key="GridCell.Tab.1.right/0.31.1440.929@0.31.1440.929" timestamp="1616504424752" />
+    <state x="78" y="67" key="SettingsEditor" timestamp="1618131036101">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="78" y="67" key="SettingsEditor/0.31.1440.929@0.31.1440.929" timestamp="1618131036101" />
+    <state x="553" y="434" width="558" height="524" key="StructurePopup" timestamp="1610198155265">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="553" y="434" width="558" height="524" key="StructurePopup/0.31.1440.929@0.31.1440.929" timestamp="1610198155265" />
+    <state x="362" y="168" width="777" height="654" key="find.popup" timestamp="1618130951280">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="362" y="168" width="777" height="654" key="find.popup/0.31.1440.929@0.31.1440.929" timestamp="1618130951280" />
+    <state x="940" y="179" key="ftp.server.browser" timestamp="1616207432980">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="940" y="179" key="ftp.server.browser/0.31.1440.929@0.31.1440.929" timestamp="1616207432980" />
+    <state x="413" y="330" width="874" height="366" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1616675343522">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="413" y="330" width="874" height="366" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.31.1440.929@0.31.1440.929" timestamp="1616675343522" />
+    <state x="423" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1616470539711">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="423" y="281" width="672" height="678" key="search.everywhere.popup/0.31.1440.929@0.31.1440.929" timestamp="1616470539711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/trade/views.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/trade/views.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/trade/views.py</url>
+          <line>300</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/trade/views.py</url>
+          <line>302</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="unsigned_items[4]" />
+        <watch expression="query['sign_type']" />
+      </configuration>
+      <configuration name="Python.DjangoServer">
+        <watch expression="request.version" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MxShop$import_category_data.coverage" NAME="import_category_data Coverage Results" MODIFIED="1616408648268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/MxShop$yunpian.coverage" NAME="yunpian Coverage Results" MODIFIED="1610891572567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/MxShop$import_goods_data.coverage" NAME="import_goods_data Coverage Results" MODIFIED="1616408698712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/MxShop$alipay.coverage" NAME="alipay Coverage Results" MODIFIED="1616308979297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps/utils" />
+    <SUITE FILE_PATH="coverage/MxShop$settings.coverage" NAME="settings Coverage Results" MODIFIED="1616208830061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MxShop" />
+  </component>
+</project>
